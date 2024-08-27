@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijithpk2" alt="abhijithpk2" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/maranamass_0_0" target="blank"><img src="https://img.shields.io/twitter/follow/maranamass_0_0?logo=twitter&style=for-the-badge" alt="maranamass_0_0" /></a> </p>
 
 <img align="right" alt="coding"  width="400" src="https://user-images.githubusercontent.com/25642379/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif">
 
